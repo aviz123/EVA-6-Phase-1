@@ -1,6 +1,6 @@
 ## Group Members
 1. Nishad Rajmalwar	-	nrajmalwar@gmail.com
-2. Owais		-	owaisesivany@gmail.com
+2. Owais Sivany		-	owaissivany@gmail.com
 3. Senthil
 4. Prasad
 
